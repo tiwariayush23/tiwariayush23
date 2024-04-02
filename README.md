@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiwariayush23
+
 -👋 Welcome to my GitHub profile! I'm Ayush Tiwari,
  a passionate frontend developer, with a love for coding, problem-solving, and building innovative solutions.
  With a background in Java, HTML, CSS, JS, MySQL, I'm dedicated to contributing to the ever-evolving world of technology.
@@ -12,7 +12,8 @@ From open-source contributions to personal projects and experiments, each reposi
 
 Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration opportunities.
 
-Certainly! Including a link to connect with you on GitHub is a great way to encourage collaboration, networking, and communication with other developers. Here's a suggested section you could add to your GitHub profile to facilitate connections:
+Certainly! Including a link to connect with you on GitHub is a great way to encourage collaboration, networking,
+and communication with other developers. Here's a suggested section you could add to your GitHub profile to facilitate connections:
 
 🤝 Let's Connect!
 
@@ -20,7 +21,7 @@ I'm always eager to connect with fellow developers, collaborate on projects, and
 Whether you have a question, an idea to discuss, or just want to say hello, 
 feel free to reach out to me on GitHub or connect with me through other channels:
 
-🔗 GitHub : 
+🔗 GitHub : https://github.com/tiwariayush23
 
 📧 Email : tayush377@gmail.com
 
