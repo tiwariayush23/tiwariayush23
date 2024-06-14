@@ -25,9 +25,7 @@ feel free to reach out to me on GitHub or connect with me through other channels
 
 📧 Email : tayush377@gmail.com
 
-📱 LinkedIn  : https://www.linkedin.com/in/ayush-tiwari-b2106a251
-
-
+📱 LinkedIn  : www.linkedin.com/in/tiwariayush23
 
 Happy coding! 🚀
 
